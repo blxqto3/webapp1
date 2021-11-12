@@ -3,7 +3,7 @@
   inputs:
     serviceConnectionEndpoint: 'Test1'
     testType: 'app'
-    monitorWhen: 'always'
+    monitorWhen: 'true'
     failOnIssues: true
 # A list of tasty fruits
 - Apple
